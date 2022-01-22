@@ -15,6 +15,6 @@
   - numpy
   - matplotlib
   - datetime
-  - stats 
+  - scipy 
   - math 
   - plotly
