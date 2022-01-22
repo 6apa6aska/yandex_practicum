@@ -18,4 +18,4 @@
   - pandas
   - numpy
   - matplotlib
-  - stats
+  - scipy
